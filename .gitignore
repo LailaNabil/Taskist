@@ -20,4 +20,4 @@ android/app/key\.jks
 
 android/app/proguard-rules\.pro
 
-android/key\.properties
+#android/key\.properties
