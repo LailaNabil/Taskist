@@ -332,7 +332,7 @@ class _DetailPageState extends State<DetailPage> {
                                   ),
                                 ),
                                 secondaryActions: <Widget>[
-                                  new IconSlideAction(
+                                  IconSlideAction(
                                     caption: 'Delete',
                                     color: Colors.red,
                                     icon: Icons.delete,
